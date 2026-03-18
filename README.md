@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @f312213213, a CS student in National Taipei University, 
-- 👀 I’m interested in web, software development, and playing drums!
-- 🌱 I’m currently fall in love with react.js.
-- 📫 Reach me on my <a href='https://www.chiendavid.com/' target="blank">website</a>!
+### david chien
 
-<!---
-f312213213/f312213213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+software engineer at [Make](https://www.make.com/), previously [Appier](https://www.appier.com/). based in prague, from taiwan.
+
+i like making slow things fast — build systems, CI pipelines, that kind of stuff. also play drums sometimes.
+
+working on [demodone.app](https://demodone.app) on the side.
+
+[![Website](https://img.shields.io/badge/-chiendavid.com-000?style=flat-square&logo=google-chrome&logoColor=white)](https://www.chiendavid.com/)
+[![LinkedIn](https://img.shields.io/badge/-linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidchien419/)
+[![Email](https://img.shields.io/badge/-email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:f312213213david@gmail.com)
